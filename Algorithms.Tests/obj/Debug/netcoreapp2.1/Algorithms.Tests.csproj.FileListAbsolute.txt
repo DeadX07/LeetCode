@@ -1,0 +1,17 @@
+F:\DCOM\LeetCode\Algorithms.Tests\obj\Debug\netcoreapp2.1\Algorithms.Tests.csprojAssemblyReference.cache
+F:\DCOM\LeetCode\Algorithms.Tests\obj\Debug\netcoreapp2.1\Algorithms.Tests.csproj.CoreCompileInputs.cache
+F:\DCOM\LeetCode\Algorithms.Tests\obj\Debug\netcoreapp2.1\Algorithms.Tests.AssemblyInfoInputs.cache
+F:\DCOM\LeetCode\Algorithms.Tests\obj\Debug\netcoreapp2.1\Algorithms.Tests.AssemblyInfo.cs
+F:\DCOM\LeetCode\Algorithms.Tests\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+F:\DCOM\LeetCode\Algorithms.Tests\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+F:\DCOM\LeetCode\Algorithms.Tests\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+F:\DCOM\LeetCode\Algorithms.Tests\bin\Debug\netcoreapp2.1\Algorithms.Tests.deps.json
+F:\DCOM\LeetCode\Algorithms.Tests\bin\Debug\netcoreapp2.1\Algorithms.Tests.runtimeconfig.json
+F:\DCOM\LeetCode\Algorithms.Tests\bin\Debug\netcoreapp2.1\Algorithms.Tests.runtimeconfig.dev.json
+F:\DCOM\LeetCode\Algorithms.Tests\bin\Debug\netcoreapp2.1\Algorithms.Tests.dll
+F:\DCOM\LeetCode\Algorithms.Tests\bin\Debug\netcoreapp2.1\Algorithms.Tests.pdb
+F:\DCOM\LeetCode\Algorithms.Tests\bin\Debug\netcoreapp2.1\Algorithms.dll
+F:\DCOM\LeetCode\Algorithms.Tests\bin\Debug\netcoreapp2.1\Algorithms.pdb
+F:\DCOM\LeetCode\Algorithms.Tests\obj\Debug\netcoreapp2.1\Algorithms.Tests.csproj.CopyComplete
+F:\DCOM\LeetCode\Algorithms.Tests\obj\Debug\netcoreapp2.1\Algorithms.Tests.dll
+F:\DCOM\LeetCode\Algorithms.Tests\obj\Debug\netcoreapp2.1\Algorithms.Tests.pdb
